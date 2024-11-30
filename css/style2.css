@@ -1,0 +1,43 @@
+/* Універсальний селектор */
+/* * {
+  color: blue;
+  box-sizing: border-box;
+} */
+
+/* h1 {
+  color: aqua;
+}
+a {
+  text-decoration: none;
+}
+ul {
+  list-style: none;
+} */
+
+/* .main-title {
+  color: blue;
+  font-size: 100px;
+}
+
+.item-link {
+  color: aqua;
+}
+.link {
+  color: blueviolet;
+}
+ul .item-link {
+  color: brown;
+} */
+
+/* .item > a {
+  color: blue;
+}
+
+body > .list {
+  background-color: aquamarine;
+} */
+
+.item-link:active {
+  color: aqua;
+  font-size: 30px;
+}
